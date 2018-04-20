@@ -15,9 +15,11 @@ r
 
 * This is implemented using C++ and Cilk plugin
 
-* If you are not using linux and use a mac or window you can do `./g++.sh main.cpp -o main` to build and ./run.sh ./main to run the program
+* If you are not using linux and use a mac or window you can do `./g++.sh main.cpp -o main` to build and `./run.sh ./main` to run the program however you need Docker to use the script
 
 * The graph reader expect the following format you can modify the code if you do not like it and you want it in a different format
+
+* Go and look at the code on the graph file name might improve it to receive from argument
 
 ```
 node_1,node_2
