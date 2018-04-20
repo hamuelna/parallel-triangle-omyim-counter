@@ -1,0 +1,5 @@
+*.csv
+*.out
+main
+.DS_Store
+.vscode
